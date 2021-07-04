@@ -1,0 +1,29 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 3px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    background: var(--main-bg-color);
+    cursor: pointer;
+    
+}
+
+.my-2{
+    margin: 13px ;
+}
+
+.my-1{
+    margin: 5px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+
